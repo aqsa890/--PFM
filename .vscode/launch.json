@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (lib\\screens\\budget_screens\\see_my_budget.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib\\screens\\budget_screens\\see_my_budget.dart"
+        }
+    ]
+}
